@@ -40,12 +40,7 @@ A simple full-stack application that empowers women* to manage their health acti
 
 ### Getting Started
 
-```bash
-# Clone the repository
-git clone https://github.com/anaURL/vitala-health-app
 
-# Navigate to the project directory
-cd vitala health-app
 
 # Install frontend dependencies (using Vite)
 cd client
